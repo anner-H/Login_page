@@ -1,0 +1,96 @@
+.lapizz{
+    padding: 1rem;
+    margin: 1rem;
+}
+.blanco {
+    width: 23.5rem;
+    height: 30rem;
+    background-color: #FFFF;
+    border-radius: 2rem 2rem 0rem 0rem;
+    margin-top: 3rem;
+    padding-top: 2rem;
+
+    }
+    .caja-padre {
+        width: 37.5rem;
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .titulo{
+        font-size: var(--h1); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color:var(--white);
+        margin: 1rem;
+    }
+.continue{    
+        font-size: var(--h3); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color: var(--white);
+        opacity: 65%;
+        margin: 1rem;
+        margin-top: 0.5rem;
+    }
+        
+    .gmail{
+        font-size: var(--texto2); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color: var(--gray);
+        margin-left: 2rem;
+        
+
+    }
+    .linea{
+    width: 20rem;
+    height: 0.1rem;
+    background-color:var(--gray);
+    margin-top: 0rem;
+    align-self: center;
+    margin: 1rem 2rem 1rem 2rem;
+    
+    }
+    .correo{
+        font-size: var(--texto1); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color: var(--dark-gray);
+        margin-left: 2rem;
+    }
+    .contraseña{
+        font-size: var(--h1); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color: var(--dark-gray);
+        margin-left: 2rem;
+    }
+
+    .olvido{
+        font-size: var(--texto2); 
+        font-family: 'Source Sans Pro', sans-serif;
+        color: var(--dark-gray);
+        margin-left: 13rem;
+    }
+    .botton{
+       margin: 0rem 2rem 0rem 2rem;
+        background: linear-gradient(313.78deg, #2855ae -3.15%, #7292cf 100%);
+        padding: 0.5rem;
+        border-radius: 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .botton a{
+        font-family: "Source Sans Pro", sans-serif;
+        color: #fff;
+        text-decoration: none;
+        font-size: var (--texto2);
+        text-align: center;
+      }
+      .flecha{
+        margin-left: 2rem;
+
+      }
+
+       .view{
+        margin-left: 6rem;
+    
+      }

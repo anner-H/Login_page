@@ -1,0 +1,38 @@
+*{
+    margin:0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+
+}
+
+html{
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+    width:100%;
+    height: 100%;
+    font-family: 'Bebas Neue', cursive;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
+:root{
+    /*  Paleta de Colores  */
+    --azul:#2855AE ;
+    --celeste:#7292CF;
+    --dark-gray:#3A3A3A;
+    --gray:#777777;
+    --white:#FFF;
+    
+    /*tamaño del fuentes*/
+    --h1: 3.4rem;
+    --h3: 2rem;
+    --texto1: 1.6rem;
+    --texto2: 1.2rem;
+}
+.logo{
+    margin-top: 3rem;
+    margin:8rem;     
+
+}
+.lapiz{
+    margin: 1rem;
+}
+
